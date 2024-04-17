@@ -28,3 +28,10 @@ footer{
     color: white;
     text-shadow: 1px 1px 1px black;
 }
+
+.vidlink{
+    font-size: 1em;
+    text-decoration: underline;
+    color: rgb(80, 80, 229);
+    text-shadow: none;
+}
